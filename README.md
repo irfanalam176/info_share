@@ -1,3 +1,4 @@
+REACT JS-EXPRESS JS-MYSQL
 Welcome to InfShare, your ultimate destination for seamless information exchange and knowledge sharing.
 In a world where information is key, InfShare stands as a beacon, offering a dynamic platform where ideas, insights,
 and expertise converge. Whether you are a passionate learner, a seasoned professional, or an avid knowledge seeker, 
